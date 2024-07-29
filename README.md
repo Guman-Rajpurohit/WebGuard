@@ -17,4 +17,3 @@ To install the necessary dependencies, run:
 
 ```sh
 pip install requests beautifulsoup4 lxml
-
