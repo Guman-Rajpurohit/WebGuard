@@ -4,7 +4,7 @@
 
 ## Banner
 
-![WebGuard Banner](https://github.com/yourusername/yourrepository/blob/main/images/banner.png)
+![WebGuard Banner](https://github.com/Guman-Rajpurohit/WebGuard/blob/main/Banner.png?raw=true)
 
 ## Features
 
